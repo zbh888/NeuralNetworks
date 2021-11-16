@@ -4,7 +4,7 @@ The data set used is MNIST mainly
 
 # Quick View
 
-1. [CNN GAN](https://github.com/zbh888/NeuralNetworks/tree/main/CNNGAN)
+1. [CNN GAN](https://github.com/zbh888/NeuralNetworks/tree/main/GAN_CNN), [CNN_Dense](https://github.com/zbh888/NeuralNetworks/tree/main/GAN_Dense)
 
 2. [CNN Classifier](https://github.com/zbh888/NeuralNetworks/tree/main/CNNClassifier)
 
